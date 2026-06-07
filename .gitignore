@@ -1,0 +1,14 @@
+# Configuration files (API keys)
+config.json
+
+# History/Data files
+weather_history.json
+weather_history.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files (if you use virtual environments)
+venv/
+.env
