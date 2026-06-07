@@ -1,0 +1,4 @@
+city,temp,humidity,condition,wind,timestamp
+London, GB,15.2,75,Light Rain,3.5,2026-06-07 09:00:00
+Lahore, PK,38.5,30,Clear Sky,2.1,2026-06-07 09:15:00
+New York, US,22.1,55,Cloudy,4.2,2026-06-07 09:30:00
