@@ -30,5 +30,5 @@ Bash
 python Task 13 Weather dashboard.py
 
 ## Demo
-A 1-minute demonstration of this dashboard is available. Please visit the :
+A 46sec demonstration of this dashboard is available. Please visit the :
        Weather dashboard demo video.mp4
